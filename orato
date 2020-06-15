@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+clear
+
+# o echo sem atributos interpreta as quebras de linha da string entre aspas
+echo "O rato roeu
+a roupa do rei
+de Roma."

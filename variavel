@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# shellscript tem tipagem fraca tudo é estring
+
+nome=""
+
+clear
+echo -e "Qual o seu nome?\n"
+read nome
+echo -e "\nSeja bem vindo $nome!\n\n" 

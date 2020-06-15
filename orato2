@@ -1,0 +1,7 @@
+# citar a frase com emulador de voz
+
+#!/usr/bin/env bash
+
+clear
+espeak "O rato roeu a roupa do rei de Roma."
+
